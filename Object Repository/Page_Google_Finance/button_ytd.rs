@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ytd</name>
+   <tag></tag>
+   <elementGuidId>11fcc333-71ca-452e-b3b1-e855a26bac02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;ytdTab&quot;)/span[@class=&quot;VfPpkd-YVzG2b&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ytdTab']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ytdTab > span.VfPpkd-YVzG2b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;YTD&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ytdTab&quot;)/span[@class=&quot;VfPpkd-YVzG2b&quot;]</value>
+      <webElementGuid>a6b875f4-8287-4cc0-9830-837e4dc1a039</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='ytdTab']/span[2]</value>
+      <webElementGuid>55e95b84-180f-4d9a-b2af-efcb43d96546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[5]/span[2]</value>
+      <webElementGuid>d3340e8f-5d9f-464d-9867-4700f3cad86c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Google Finance - Stock Market Prices, Real-time Quotes  Business News/path",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": ".eEMh0d \u003e .NMm5M \u003e path",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Google Finance - Stock Market Prices, Real-time Quotes  Business News/path_SMART_LOCATOR.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_SIDO Rp575.00 (2.68) Industri Jamu dn _afdf96/rect",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "g.Zelcpf \u003e rect",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_SIDO Rp575.00 (2.68) Industri Jamu dn _afdf96/rect_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_SIDO Rp580.00 (3.57) Industri Jamu dn _ce5712/rect",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "g.Zelcpf \u003e rect",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_SIDO Rp580.00 (3.57) Industri Jamu dn _ce5712/rect_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Google_Finance/span_SIDO",
+      "brokenLocator": "//div[@id\u003d\u0027nngdp50\u0027]/div/div/div/div[2]/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Industri Jamu dn Frms Sd Mncl Tbk PT\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Google_Finance/span_SIDO_neighbor.png"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect</name>
+   <tag></tag>
+   <elementGuidId>64cd2346-18a4-4cf7-9880-be2d2dfa9029</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>g.Zelcpf > rect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>svg >> internal:has-text=&quot;Jan 2024Mar 2024May 2024Jul 2024Sep 2024Nov 2024450500550600650700750800&quot;i >> rect >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>a6d5564c-d1b1-4b9c-8935-c72bfdae0261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>638.8828125</value>
+      <webElementGuid>0883a3e0-db4d-425a-9908-b555f7e61d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>224</value>
+      <webElementGuid>d10a9375-36ad-4344-b8bc-292c51fd978d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>6a267b74-c94b-4457-b59f-7434a8616668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pointer-events</name>
+      <type>Main</type>
+      <value>all</value>
+      <webElementGuid>81725039-bc84-4106-a683-6678079369f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;zQTmif SSPGKf u5wqUe&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;e1AOyf&quot;]/div[1]/main[1]/div[@class=&quot;Gfxi4&quot;]/div[@class=&quot;yWOrNb&quot;]/div[@class=&quot;VfPpkd-WsjYwc VfPpkd-WsjYwc-OWXEXe-INsAgc KC1dQ Usd1Ac AaN0Dd  QZMA8b&quot;]/c-wiz[1]/div[1]/div[@class=&quot;ushogf&quot;]/svg[1]/g[1]/g[@class=&quot;Zelcpf&quot;]/rect[1]</value>
+      <webElementGuid>84fc3e6d-c63a-472b-9eea-6d6e09d4cd0d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
